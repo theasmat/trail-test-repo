@@ -1,2 +1,7 @@
 [profile]
 share = true
+
+[share]
+remote = "git@github-byte:theasmat/trail-test-repo.git"
+level = "full"
+refs = "hidden"
